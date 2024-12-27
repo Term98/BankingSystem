@@ -40,7 +40,6 @@ After cloning the repository, you need to install the project dependencies. Run 
 
 If you're using npm:
 
-    ```bash
     npm install
 
 Or if you're using yarn:
@@ -88,7 +87,7 @@ npm run preview: Previews the built project.
 Environment Variables
 Make sure to add your Supabase credentials in the .env file as mentioned above.
 
-    ```env
+
     VITE_SUPABASE_URL=your-supabase-url
     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 These environment variables are required to connect to Supabase for authentication and data management.
@@ -96,7 +95,6 @@ These environment variables are required to connect to Supabase for authenticati
 ##Folder Structure
 This is the basic structure of the project:
 
-    ```bash
 
     /src
     /components       # Reusable components like AuthForm, etc.
