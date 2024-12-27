@@ -45,7 +45,7 @@ If you're using npm:
 
 Or if you're using yarn:
 
-    ```bash
+
     yarn install
 
 This will install all the required packages listed in the package.json file.
@@ -57,7 +57,7 @@ This will install all the required packages listed in the package.json file.
     -After setting up, get your Supabase URL and API key from the Supabase dashboard.
     -In the root of your project, create a .env file and add the following variables:
 
-    ```env
+
     VITE_SUPABASE_URL=your-supabase-url
     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 
@@ -69,17 +69,16 @@ Now, you're ready to run the project locally. Start the development server by ru
 
 If you're using npm:
 
-    ```bash
+
     npm run dev
 
 Or if you're using yarn:
 
-    ```bash
     yarn dev
 
 The application should now be running at http://localhost:3000.
 
-    ## Scripts
+## Scripts
 Here are the available scripts for running, building, and previewing the project:
 
 npm run dev: Starts the development server.
