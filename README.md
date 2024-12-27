@@ -66,7 +66,7 @@ Replace your-supabase-url and your-supabase-anon-key with your actual Supabase c
 
 4. **Run the development server**:
 
-Now, you're ready to run the project locally. Start the development server by running one of the following commands:
+Now, you're ready to run the project locally. Start the Project by running one of the following commands:
 
 If you're using npm:
 
@@ -77,7 +77,7 @@ Or if you're using yarn:
 
     yarn dev
 
-The application should now be running at http://localhost:3000.
+The application should now be running at http://localhost:5173.
 
 ##Folder Structure
 This is the basic structure of the project:
