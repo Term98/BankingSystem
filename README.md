@@ -11,7 +11,7 @@
 
 ## Tech Stack
 - **Frontend**: React, React Router, Zustand, Tailwind CSS, Lucide React
-- **Backend**: Supabase (Authentication and Database)
+- **Backend**: Supabase SQL (Authentication and Database)
 - **Styling**: Tailwind CSS
 - **State Management**: Zustand
 - **Build Tool**: Vite
