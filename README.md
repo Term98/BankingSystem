@@ -56,7 +56,6 @@ This will install all the required packages listed in the package.json file.
     -After setting up, get your Supabase URL and API key from the Supabase dashboard.
     -In the root of your project, create a .env file and add the following variables:
 
-
     VITE_SUPABASE_URL=your-supabase-url
     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 
@@ -77,21 +76,6 @@ Or if you're using yarn:
 
 The application should now be running at http://localhost:3000.
 
-## Scripts
-Here are the available scripts for running, building, and previewing the project:
-
-npm run dev: Starts the development server.
-npm run build: Builds the project for production.
-npm run lint: Runs ESLint to check for code quality issues.
-npm run preview: Previews the built project.
-Environment Variables
-Make sure to add your Supabase credentials in the .env file as mentioned above.
-
-
-    VITE_SUPABASE_URL=your-supabase-url
-    VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
-These environment variables are required to connect to Supabase for authentication and data management.
-
 ##Folder Structure
 This is the basic structure of the project:
 
@@ -108,4 +92,4 @@ This is the basic structure of the project:
 
 ## Live Demo
 
-You can view the live demo of the project here: [Live Demo - Banking System](https://banksystem-81661.web.app/login).
+You can view the live demo of the project here: [Live Demo - Banking System](https://banksystem-81661.web.app).
