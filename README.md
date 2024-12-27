@@ -51,10 +51,13 @@ This will install all the required packages listed in the package.json file.
 
 3. **Set up Supabase**:
 
-    -Go to Supabase and create a new project.
-    -Set up your authentication and database (for profiles, accounts, etc.).
-    -After setting up, get your Supabase URL and API key from the Supabase dashboard.
-    -In the root of your project, create a .env file and add the following variables:
+-Go to Supabase and create a new project.
+
+-Set up your authentication and database (for profiles, accounts, etc.).
+    
+-After setting up, get your Supabase URL and API key from the Supabase dashboard.
+    
+-In the root of your project, create a .env file and add the following variables:
 
     VITE_SUPABASE_URL=your-supabase-url
     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
